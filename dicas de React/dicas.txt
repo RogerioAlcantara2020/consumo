@@ -1,0 +1,15 @@
+Comandos a serem instalados 
+
+PARA INICIAR O PROJETO
+npx create-react-app nomedoprojeto
+
+PARA INSTALAR COMPONENTES AXIOS PARA TRABALHAR COM URLS
+npm install axios
+
+PARA INSTALAR COMPONENTE ROUTE-DOM PARA TRABALHAR COM ROTAS
+npm install react-route-dom
+
+
+PARA INSTALAR COMPONENTE DE ESTILIZAÇÃOCL
+npm install styled-components
+
