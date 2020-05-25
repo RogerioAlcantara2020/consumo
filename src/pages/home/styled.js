@@ -34,3 +34,9 @@ border-radios: 0 .25rem .25rem 0;
     outline:none;
     box-shadow: none;
 `
+export const erroMessage = styled.span`
+diplay:block;
+font-size: 0.65rem;
+color:red;
+font-weight:600;
+`
